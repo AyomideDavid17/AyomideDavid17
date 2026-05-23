@@ -1,6 +1,7 @@
 <!--![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)-->
 
 ![a building](https://github.com/AyomideDavid17/AyomideDavid17/raw/main/Aircraft2.jpeg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://AyomideDvid17.dev)
 <h1 align="center">Hi 👋, I'm Ayomide David</h1>
 <h3 align="center">I am an AI and Embedded System Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJkZDEwa3c2ZWl3cmN4dmwyb29rdGxmeWR4NTVsb2xmeThsZ3dhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
