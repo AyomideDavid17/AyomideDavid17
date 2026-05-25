@@ -9,8 +9,6 @@ Aircraft Maintenance Engineering Student ✈️
 Passionate about aviation and hands-on engineering work.  
 Currently studying Aircraft Maintenance Engineering at Red River College Polytechnic.
 
----
-
 ## 🛠 Languages & Tools
 
 <p align="left">
