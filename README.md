@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ayomide David </h1>
+<h1 align="left">Hi 👋, I'm Ayomide David </h1>
 
-<h3 align="center">
+<h3 align="left">
 Aircraft Maintenance Engineering Student ✈️
 </h3>
 
