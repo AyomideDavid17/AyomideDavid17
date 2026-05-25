@@ -2,10 +2,8 @@
 
 <h3 align="left">
 I'm an Aircraft Maintenance Engineer ✈️.
-Passionate about aviation, aircraft systems, and hands-on engineering work.
 </h3>
-
-<img align="right" alt="Aircraft" width="350" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
+- Passionate about aviation, aircraft systems, and hands-on engineering work.
 
 ## 🛠 Languages & Tools
 
