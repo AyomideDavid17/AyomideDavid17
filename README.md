@@ -7,10 +7,6 @@ Passionate about aviation, aircraft systems, and hands-on engineering work.
 
 <img align="right" alt="Aircraft" width="350" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
 
-Passionate about aviation and hands-on engineering work.  
-Currently studying Aircraft Maintenance Engineering at Red River College Polytechnic.
-
-
 ## 🛠 Languages & Tools
 
 <p align="left">
