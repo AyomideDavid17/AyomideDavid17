@@ -1,13 +1,18 @@
 <h1 align="left">Hi 👋, I'm Ayomide David </h1>
 
 <h3 align="left">
-Aircraft Maintenance Engineering Student ✈️
+I'm an Aircraft Maintenance Engineer ✈️
+</h3>
+
+<h3 align="left">
+I'm Passionate about aviation, aircraft systems, and hands-on engineering work.
 </h3>
 
 <img align="right" alt="Aircraft" width="350" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
 
 Passionate about aviation and hands-on engineering work.  
 Currently studying Aircraft Maintenance Engineering at Red River College Polytechnic.
+
 
 ## 🛠 Languages & Tools
 
@@ -31,7 +36,6 @@ Currently studying Aircraft Maintenance Engineering at Red River College Polytec
 
 </p>
 
----
 
 ## 🎓 Education Background
 
@@ -50,7 +54,7 @@ Aircraft Maintenance Engineering
 <p align="left">
 
 <a href="www.linkedin.com/in/ayomide-david" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayomide David" height="30" width="40" />
 </a>
 
 </p>
