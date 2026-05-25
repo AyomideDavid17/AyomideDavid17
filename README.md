@@ -1,11 +1,10 @@
-![Aircraft Image](https://github.com/AyomideDavid17/AyomideDavid17/raw/main/Aircraft3.jpg)
-
+![Aircraft Image](https://github.com/AyomideDavid17/AyomideDavid17/raw/main/Aircraft2.jpeg)
 <h1 align="left">Hi 👋, I'm Ayomide David</h1>
 <h3 align="left">I am an Aircraft Maintenance Engineer ✈️ .</h3>
 
-🛩️ I am Passionate about aviation, aircraft systems, and hands-on engineering work.  
+🛩️ I am Passionate about aviation, aircraft systems, and hands-on engineering work. 
 
-🔧 Currently studying Aircraft Maintenance Engineering at the university.  
+🔧 Currently studying Aircraft Maintenance Engineering at the university.
 
 📚 Building practical skills in aircraft maintenance, inspections, troubleshooting, and aviation safety.  
 
